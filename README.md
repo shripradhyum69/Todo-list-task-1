@@ -7,5 +7,5 @@ Organisation: Todo lists help you structure your tasks and activities ensuring y
 Time Management: They assist in time management by helping you allocate your time efficiently to different tasks.
 
 
-
+MODULES to install
 pip install mysql.connector
